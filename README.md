@@ -22,6 +22,6 @@ Overall, the differences in temperatures for June and December in Oahu are sligh
 
 ## Summary 
 
-Due to the significantly lower minimum temperature in December, I wanted to see how many days were lower than 70 degrees compared to June. For both months, I did a count of the number of times the temperature was recorded, the number of times it fell below 70 degrees, and calculated the percentage of times the temperature fell that low.  
+Due to the significantly lower minimum temperature in December, I wanted to see how many days were lower than 70 degrees compared to June. For both months, I did a count of the number of times the temperature was recorded, the number of times it fell below 70 degrees, and calculated the percentage of times the temperature fell that low.   
 
 From this data, I determined that the temperature fell below 70 degrees 5% of the time in the month of June. For December, the temperature dropped that low 31% of the time. Out of 1,517 times that the temperature was read in the month of December it fell below 70 degrees 31% of the time. I suggest that number be considered in the business plan. 
